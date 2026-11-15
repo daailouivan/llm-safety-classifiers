@@ -1,6 +1,6 @@
-# Gemini Safety Evaluation Flags
+# Gemini Pro — Leaked Internal Safety Evaluation Flags (`r/GeminiAI`)
 
-Internal multi-label safety taxonomy classifiers captured from model output:
+Internal multi-label safety taxonomy classifiers captured from a viral `r/GeminiAI` screenshot where an internal evaluation check leaked into the response stream:
 
 | Classifier Flag | Default State |
 | :--- | :--- |
