@@ -7,6 +7,6 @@ Archival collection of exposed, documented, and extracted safety policy taxonomi
     ├── google/
     │   └── gemini/
     │       └── 3.8-flash/
-    │           └── safety_eval_flags.txt
+    │           └── safety_eval_flags.md
     ├── openai/
     └── anthropic/
